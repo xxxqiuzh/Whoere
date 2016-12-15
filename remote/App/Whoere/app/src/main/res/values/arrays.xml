@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string-array name="bounds">
+        <item>100m</item>
+        <item>500m</item>
+        <item>1km</item>
+        <item>2km</item>
+        <item>5km</item>
+        <item>10km</item>
+    </string-array>
+    
+    <string-array name="tags">
+        <item>学习</item>
+        <item>交友</item>
+        <item>拼车</item>
+        <item>团购</item>
+        <item>其他</item>
+    </string-array>
+
+</resources>
