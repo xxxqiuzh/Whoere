@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Whoere</string>
+    <string name="spinner_bounds_prompt">选择范围</string>
+    <string name="spinner_tags_prompt">选择标签</string>
+</resources>
